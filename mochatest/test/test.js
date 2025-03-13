@@ -414,3 +414,18 @@ describe('Moyenne de note - Fonctionnel', () => {
         })
     })
 })
+
+//jest
+
+/*
+describe('Tests de la fonction addition', () => {
+    test.each([
+        [1,2,3],
+        [0,0,0],
+        [-1,-4,-5],
+        [-2,3,1]
+    ])('Addition(%i, %i) doit retourner %i', (a, b, total) => {
+        expect(addition(a,b)).toBe(total)
+    })
+})
+*/
